@@ -52,16 +52,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-  <!-- Stats Card — usando instância alternativa mais estável -->
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alemes7&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" alt="Alexandre github stats"/>
-
-  <!-- Top Langs — usando instância alternativa mais estável -->
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alemes7&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&cache_seconds=1800" alt="Most used languages"/>
-
-</div>
-
-<div align="center">
   <!-- Streak stats — serviço mais estável que o activity graph -->
   <img width="70%" src="https://streak-stats.demolab.com/?user=alemes7&theme=dark&hide_border=true&stroke=00bfbf&ring=00bfbf&fire=00bfbf&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00bfbf&sideLabels=00bfbf&dates=c9d1d9&background=0d1117" alt="Alexandre streak stats"/>
 </div>
