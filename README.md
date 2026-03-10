@@ -52,16 +52,23 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alemes7&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Alexandre github stats"/>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alemes7&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Most used languages"/>
+
+  <!-- Stats Card — usando instância alternativa mais estável -->
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alemes7&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" alt="Alexandre github stats"/>
+
+  <!-- Top Langs — usando instância alternativa mais estável -->
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alemes7&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&cache_seconds=1800" alt="Most used languages"/>
+
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=alemes7&theme=dark&hide_border=true&stroke=00bfbf&ring=00bfbf&fire=00bfbf&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00bfbf&sideLabels=00bfbf&dates=c9d1d9&background=0d1117" alt="Alexandre streak stats"/>
+  <!-- Streak stats — serviço mais estável que o activity graph -->
+  <img width="70%" src="https://streak-stats.demolab.com/?user=alemes7&theme=dark&hide_border=true&stroke=00bfbf&ring=00bfbf&fire=00bfbf&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00bfbf&sideLabels=00bfbf&dates=c9d1d9&background=0d1117" alt="Alexandre streak stats"/>
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alemes7&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true" alt="Activity graph"/>
+  <!-- Gráfico de contribuições — GitHub nativo via Skyline/snake, alternativa confiável -->
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alemes7&bg_color=0d1117&color=00bfbf&line=00bfbf&point=00bfbf&area_color=00bfbf&area=true&hide_border=true" alt="Contribution graph"/>
 </div>
 
 <br/>
